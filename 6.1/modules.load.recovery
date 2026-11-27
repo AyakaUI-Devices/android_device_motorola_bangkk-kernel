@@ -23,6 +23,7 @@ qrtr.ko
 qcom_glink.ko
 qrtr-smd.ko
 qcom-cpufreq-hw.ko
+sched-walt.ko
 qcom_glink_smem.ko
 rproc_qcom_common.ko
 qcom_glink_spss.ko
@@ -74,6 +75,7 @@ hwkm_v1.ko
 crypto-qti.ko
 ufshcd-crypto-qti.ko
 ufs_qcom.ko
+sg.ko
 spmi-pmic-arb.ko
 nvmem_qcom-spmi-sdam.ko
 nvmem_qfprom.ko
